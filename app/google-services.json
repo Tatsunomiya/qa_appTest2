@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21174757145",
+    "firebase_url": "https://qaapp3-1472d.firebaseio.com",
+    "project_id": "qaapp3-1472d",
+    "storage_bucket": "qaapp3-1472d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21174757145:android:52c7a9730e2b2bc933c788",
+        "android_client_info": {
+          "package_name": "tatsunomiya.com.qaaapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21174757145-2j0uu5v6kmdols3533ji5pm4svur3bst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC47ZrogsQFCruRm06OAXf6D_3qX5WdmyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21174757145-2j0uu5v6kmdols3533ji5pm4svur3bst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

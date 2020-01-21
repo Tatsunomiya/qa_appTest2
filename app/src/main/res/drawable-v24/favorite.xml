@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <item android:drawable="@drawable/favorite2" android:state_selected="true" />-->
+<!--    <item android:drawable="@drawable/favorite1" android:state_selected="false" />-->
+<!--    </selector>-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--通常時-->
+    <item android:drawable="@drawable/favorite1"
+        android:state_pressed="false"
+        android:state_enabled="true"/>
+    <!--ボタンタップ時-->
+    <item android:drawable="@drawable/favorite2"
+        android:state_pressed="true"
+        android:state_enabled="true"/>
+    <!--enabled="false"-->
+    <item android:drawable="@drawable/favorite2"
+        android:state_enabled="false"/>
+</selector>
+
